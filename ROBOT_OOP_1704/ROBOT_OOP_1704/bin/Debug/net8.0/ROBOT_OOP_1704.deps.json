@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ROBOT_OOP_1704/1.0.0": {
+        "runtime": {
+          "ROBOT_OOP_1704.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ROBOT_OOP_1704/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
